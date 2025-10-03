@@ -64,7 +64,7 @@
 
     <h2>9. Contact Us</h2>
     <p>If you have any questions about this Privacy Policy or our data practices, contact us at:</p>
-    <p><strong>Email:</strong> <a href="mailto:contact@yaomagic.com">contact@yaomagic.com</a></p>
+    <p><strong>Email:</strong> <a href="mailto:privacy@yourdomain.example">privacy@yourdomain.example</a></p>
 
     <footer>
       <p class="muted">App: <strong>RealBoard.yaomagic</strong> — Version: 1.0.0</p>
